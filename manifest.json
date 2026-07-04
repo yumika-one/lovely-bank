@@ -1,6 +1,7 @@
 {
-  "name": "LOVELY BANK",
-  "short_name": "LOVELY",
+  "name": "LAVIES Vibration Garden",
+  "short_name": "LAVIES",
+  "description": "自分に帰ってくる、毎朝の小さな庭。",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
